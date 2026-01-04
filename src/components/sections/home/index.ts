@@ -1,3 +1,4 @@
-export { default as Hero } from './Hero.js'
-export { default as Features } from './Features.js'
-export { default as Cta } from './Cta.js'
+export { default as Hero } from './Hero'
+export { default as Features } from './Features'
+export { default as Pricing } from './Pricing'
+export { default as Cta } from './Cta'

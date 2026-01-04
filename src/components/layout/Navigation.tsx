@@ -13,6 +13,7 @@ const DEFAULT_NAVIGATION = {
   navItems: [
     { label: 'Features', href: '#features' },
     { label: 'About', href: '#about' },
+    { label: 'Pricing', href: '#pricing' },
     { label: 'Contact', href: '#contact' },
   ],
 } as const;
